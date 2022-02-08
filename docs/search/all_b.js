@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['schedule_31',['schedule',['../classcotask_1_1Task.html#af60def0ed4a1bc5fec32f3cf8b8a90c8',1,'cotask::Task']]],
-  ['ser_5fnum_32',['ser_num',['../classtask__share_1_1Queue.html#a6f9d87b116eb16dba0867d3746af9f5f',1,'task_share.Queue.ser_num()'],['../classtask__share_1_1Share.html#a2e8df029af46fbfd44ef0c2e7e8c7af6',1,'task_share.Share.ser_num()']]],
-  ['share_33',['Share',['../classtask__share_1_1Share.html',1,'task_share']]],
-  ['share_5flist_34',['share_list',['../task__share_8py.html#a75818e5b662453e3723d0f234c85e519',1,'task_share']]],
-  ['show_5fall_35',['show_all',['../task__share_8py.html#a130cad0bc96d3138e77344ea85586b7c',1,'task_share']]]
+  ['read_0',['read',['../classencoder_1_1_encoder.html#aa1c1535160682500f5214f45d8197027',1,'encoder.Encoder.read()'],['../classshares_1_1_share.html#a2f6a8de164ca35bf55b68586f15d38a7',1,'shares.Share.read()']]],
+  ['ready_1',['ready',['../classcotask_1_1_task.html#a6102bc35d7cb1ce292abc85d4ddc23e1',1,'cotask::Task']]],
+  ['reset_5fprofile_2',['reset_profile',['../classcotask_1_1_task.html#a1bcbfa7dd7086112af20b7247ffa4a2e',1,'cotask::Task']]],
+  ['rr_5fsched_3',['rr_sched',['../classcotask_1_1_task_list.html#a01614098aedc87b465d5525c6ccb47ce',1,'cotask::TaskList']]],
+  ['run_4',['run',['../classclosedloop_1_1_closed_loop.html#a8a5e26066b93ead620f3879f0aa38638',1,'closedloop.ClosedLoop.run()'],['../classtask__encoder_1_1_task___encoder.html#a06de61eda693f738f2ad0d3df39eb80e',1,'task_encoder.Task_Encoder.run()']]]
 ];
